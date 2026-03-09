@@ -2,9 +2,13 @@
 <html>
 <body>
 
-<h1 style="text-align: center;"><font style="color:Maroon;">&#128540;Portfolio&#128540;</h1>
+<h1 style="text-align:center;"><font style="color:Maroon;">&#128540;Portfolio&#128540;</h1>
 <p><font style="color:Black;">This portfolio is about myself for example my age, my name, my school, etc.</p>
-  
+
+<h2><font style="color:Darkblue;">Introduction</h2>
+<h4><font style="color:White;">Hello everyone! My name is Isaac Park from Grade 6 Irwin class. Firstly, I am 11 years old. I like to play with Adam and Greg soccer or games.
+This is my portfolio.</h4>
+
 <h2><font style="color:Darkblue;">About Me</h2>
 <ul>
   <li>AGE : Grade 6, (KR)11 years old</li>
