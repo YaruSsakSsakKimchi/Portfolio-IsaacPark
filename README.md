@@ -2,6 +2,8 @@
 <html>
 <body>
 
+<img src="aspLogo.png" alt="American Stem Prep Songdo">
+
 <h1 style="text-align:center;"><font style="color:Maroon;">&#128540;Portfolio&#128540;</h1>
 <p><font style="color:Black;">This portfolio is about myself for example my age, my name, my school, etc.</p>
 
